@@ -4,6 +4,7 @@
     <list default="true" id="cd9c6c0f-8162-4728-b20e-9ddbd211a83c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/countryPicker.js" afterPath="$PROJECT_DIR$/lib/countryPicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/index.js" afterPath="$PROJECT_DIR$/lib/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +21,8 @@
       <file leaf-file-name="countryPicker.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/countryPicker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="89" column="44" lean-forward="true" selection-start-line="89" selection-start-column="44" selection-end-line="89" selection-end-column="44" />
+            <state relative-caret-position="336">
+              <caret line="96" column="77" lean-forward="false" selection-start-line="96" selection-start-column="77" selection-end-line="96" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -35,8 +36,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lib/index.js" />
         <option value="$PROJECT_DIR$/lib/country.js" />
+        <option value="$PROJECT_DIR$/lib/index.js" />
         <option value="$PROJECT_DIR$/lib/countryPicker.js" />
       </list>
     </option>
@@ -86,8 +87,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -122,12 +123,13 @@
       <workItem from="1529649733923" duration="59000" />
       <workItem from="1529649855503" duration="198000" />
       <workItem from="1529650496241" duration="93000" />
-      <workItem from="1540964862824" duration="172000" />
+      <workItem from="1540964862824" duration="240000" />
+      <workItem from="1540966083610" duration="50000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="522000" />
+    <option name="totallyTimeSpent" value="640000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="23" width="1643" height="926" extended-state="0" />
@@ -137,8 +139,8 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Floobits" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -165,6 +167,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/countryPicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/country.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -186,10 +196,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1529649975184" expanded="true" signature="3159:3181" ph="{...}" />
-            <marker date="1529649975184" expanded="true" signature="4887:4907" ph="{...}" />
-            <marker date="1529649975184" expanded="true" signature="5096:5116" ph="{...}" />
-            <marker date="1529649975184" expanded="true" signature="5395:5413" ph="{...}" />
+            <marker date="1540966132810" expanded="true" signature="3159:3181" ph="{...}" />
+            <marker date="1540966132810" expanded="true" signature="4887:4907" ph="{...}" />
+            <marker date="1540966132810" expanded="true" signature="5096:5116" ph="{...}" />
+            <marker date="1540966132810" expanded="true" signature="5395:5413" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -212,21 +222,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="210" column="26" lean-forward="false" selection-start-line="210" selection-start-column="10" selection-end-line="210" selection-end-column="26" />
+        <state relative-caret-position="567">
+          <caret line="211" column="65" lean-forward="false" selection-start-line="211" selection-start-column="65" selection-end-line="211" selection-end-column="65" />
           <folding>
-            <marker date="1529649975184" expanded="true" signature="3159:3181" ph="{...}" />
-            <marker date="1529649975184" expanded="true" signature="4887:4907" ph="{...}" />
-            <marker date="1529649975184" expanded="true" signature="5096:5116" ph="{...}" />
-            <marker date="1529649975184" expanded="true" signature="5395:5413" ph="{...}" />
+            <marker date="1540966132810" expanded="true" signature="3159:3181" ph="{...}" />
+            <marker date="1540966132810" expanded="true" signature="4887:4907" ph="{...}" />
+            <marker date="1540966132810" expanded="true" signature="5096:5116" ph="{...}" />
+            <marker date="1540966132810" expanded="true" signature="5395:5413" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/countryPicker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="89" column="44" lean-forward="true" selection-start-line="89" selection-start-column="44" selection-end-line="89" selection-end-column="44" />
+        <state relative-caret-position="336">
+          <caret line="96" column="77" lean-forward="false" selection-start-line="96" selection-start-column="77" selection-end-line="96" selection-end-column="77" />
           <folding />
         </state>
       </provider>
